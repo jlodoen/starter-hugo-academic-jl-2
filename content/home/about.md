@@ -17,5 +17,5 @@ author: admin
 widget_id: about
 design:
   background:
-    image: screen-shot-2022-05-25-at-11.53.05-am.png
+    image: ""
 ---
