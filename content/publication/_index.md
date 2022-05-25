@@ -15,7 +15,4 @@ publishDate: 2021-01-05T20:13:52.623034Z
 authors: ["Amira Jadoon", "Julia Lodoen", "Charmaine Willis", "Nakissa Jahanbani"]
 publication_types: ["3"]
 url_pdf: "publication/tpv_20.pdf"
-links: 
-- name: Online Appendix
-  url: pdf/supplemental_information.pdf
 ---
