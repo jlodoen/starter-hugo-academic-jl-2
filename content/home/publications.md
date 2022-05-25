@@ -1,5 +1,5 @@
 ---
-widget: publication
+widget: publications
 
 headless: true
 
