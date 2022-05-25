@@ -1,4 +1,11 @@
 ---
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: always
+---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
