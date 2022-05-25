@@ -1,21 +1,21 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
-title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+title: Hi!
+subtitle: I am a PhD student in Political Science at the Massachusetts Institute
+  of Technology (MIT), concentrating in international relations and security
+  studies. My research interests include nuclear strategy, multipolar nuclear
+  deterrence, political violence, and civil-military relations, with a focus on
+  South Asia. Prior to starting at MIT, I was a Junior Fellow in the South Asia
+  Program at The Stimson Center. I graduated with a B.A. in Political Science
+  and an M.A. in International Relations from the University of Chicago. I have
+  native fluency in Spanish, advanced proficiency in French, and basic knowledge
+  of Russian.
+active: true
 author: admin
+widget_id: about
+design:
+  background:
+    image: screen-shot-2022-05-25-at-11.53.05-am.png
 ---
