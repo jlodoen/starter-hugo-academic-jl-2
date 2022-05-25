@@ -1,8 +1,12 @@
 ---
 role: Ph.D. Student
-avatar_filename: screen-shot-2022-05-25-at-11.53.05-am.png
+avatar_filename: avatar.png
 bio: ""
-interests: [Nuclear Strategy, Civil-Military Relations, Political Violence, South Asia]
+interests:
+  - Nuclear Strategy
+  - Civil-Military Relations
+  - Political Violence
+  - South Asia
 social:
   - icon: envelope
     icon_pack: fas
