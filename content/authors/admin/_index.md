@@ -34,6 +34,7 @@ education:
     - course: B.A., Political Science
       institution: University of Chicago
       year: 2020
+      
 superuser: true
 highlight_name: true
 title: Julia Lodoen
