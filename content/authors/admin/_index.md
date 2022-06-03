@@ -20,6 +20,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/julia-lodoen-56307213b/
+    icon: cv
+    icon_pack: ai
+    link: uploads/lodoen_june22.pdf
 organizations:
   - name: Massachusetts Institute of Technology
     url: https://polisci.mit.edu/people/julia-lodoen
