@@ -1,5 +1,5 @@
 ---
-widget: publications
+widget: pages
 
 headless: true
 
