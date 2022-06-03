@@ -5,7 +5,7 @@
 
 main:
   - name: CV
-    url: uploads/lodoen_june22.pdf
+    url: '#cv'
     weight: 10
   - name: Publications
     url: '#publications'
