@@ -34,10 +34,10 @@ education:
 superuser: true
 highlight_name: true
 title: Julia Lodoen
-email: ""
+email: "jlodoen@mit.edu"
 ---
 I am a Ph.D. student in Political Science at the Massachusetts Institute of Technology (MIT), concentrating in international relations and security studies. My research interests include nuclear strategy, multipolar nuclear deterrence, political violence, and civil-military relations, with a focus on South Asia. 
 
 Prior to starting at MIT, I was a Junior Fellow in the South Asia Program at The Stimson Center. I graduated with a B.A. in Political Science and an M.A. in International Relations from the University of Chicago. I have native fluency in Spanish, advanced proficiency in French, and basic knowledge of Russian.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/lodoen_may22.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/lodoen_june22.pdf" "newtab" >}}CV{{< /staticref >}}.
