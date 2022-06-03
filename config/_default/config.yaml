@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Julia Lodoen # Website name
-baseURL: '' # Website URL
+baseURL: 'www.julialodoen.com' # Website URL
 copyright: '© {year} Julia Lodoen' # Footer text, e.g. '© {year} Me'
 
 ############################
