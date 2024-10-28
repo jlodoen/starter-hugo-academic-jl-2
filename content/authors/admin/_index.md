@@ -40,7 +40,7 @@ highlight_name: true
 title: Julia Lodoen
 email: "jlodoen@mit.edu"
 ---
-I'm Julia Lodoen. I am a Ph.D. student in Political Science at the Massachusetts Institute of Technology (MIT), concentrating in security studies and comparative politics. I am also affiliated with the MIT Security Studies Program (SSP). My research interests include political violence, security bureaucracies, and varieties of repression, with a focus on Latin America.
+I'm Julia Lodoen. I am a Ph.D. candidate in Political Science at the Massachusetts Institute of Technology (MIT), concentrating in security studies and comparative politics. I am also affiliated with the MIT Security Studies Program (SSP). My research interests include political violence, security bureaucracies, and varieties of repression, with a focus on Latin America.
 
 Prior to starting at MIT, I was a Junior Fellow in the South Asia Program at The Stimson Center. I graduated with a B.A. in Political Science and an M.A. in International Relations from the University of Chicago in 2020. I have native fluency in Spanish, advanced proficiency in French, and reading proficiency in Portuguese and Italian.
 
