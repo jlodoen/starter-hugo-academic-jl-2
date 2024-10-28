@@ -28,7 +28,7 @@ content:
   email: jlodoen@mit.edu
   phone: 650 704 4069
   address:
-    street: 77 Massachusetts Ave
+    street: 1 Amherst St
     city: Cambridge
     region: MA
     postcode: '02139'
